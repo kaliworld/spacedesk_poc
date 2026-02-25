@@ -63,7 +63,7 @@ net user test
 
 ## Video For Poc
 
-<video src="POC.mp4" controls="controls" width="100%" height="auto"></video>
+![Type: Video](POC.mp4)
 
 ## Mitigation
 
