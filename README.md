@@ -63,7 +63,7 @@ net user test
 
 ## Video For Poc
 
-![Type: Video](POC.mp4)
+https://github.com/kaliworld/spacedesk_poc/blob/main/POC.mp4
 
 ## Mitigation
 
